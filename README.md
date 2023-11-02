@@ -1,2 +1,2 @@
 # odin_recipes
-First assignment on odin
+This will be the first assignment on Odin Project
